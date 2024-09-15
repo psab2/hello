@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("prisha\n");
+    printf("Prisha!\n");
+    printf("Computer Science\n");
 
     return 0;
 }
